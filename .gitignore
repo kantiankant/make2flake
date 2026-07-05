@@ -1,0 +1,5 @@
+result
+make2flake
+obj/
+*.log
+*.test
