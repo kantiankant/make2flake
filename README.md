@@ -1,6 +1,7 @@
 # make2flake
 
-It converts makefiles into flakes. 
+It converts makefiles into flakes.
+> Note: it does a best-effort approximation, so be prepared to fix some things, but general syntax should be correct
 
 
 ## Features
